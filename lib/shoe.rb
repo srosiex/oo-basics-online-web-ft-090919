@@ -24,4 +24,3 @@ my_shoe.size = 9.5
 my_shoe.material = "suede"
 my_shoe.condition = "tattered"
 my_shoe.cobble
-shoe.condition = "new"
