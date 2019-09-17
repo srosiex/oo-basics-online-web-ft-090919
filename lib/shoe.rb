@@ -7,6 +7,9 @@ attr_accessor :color :size
   def brand
     @brand
   end
+  def size
+    @size
+  end
 
 end
 
