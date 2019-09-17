@@ -11,3 +11,4 @@ attr_accessor :color :size
 end
 
 Shoe.new("Nike")
+Shoe.size(9.5)
