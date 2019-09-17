@@ -1,11 +1,12 @@
 class Shoe
-attr_accessor :color, :size, :material, :condition
+attr_accessor :color, :size, :material, :condition, :cobble
 
   def initialize(brand)
     @brand = brand
     @size = size
     @material = material
     @condition = condition
+    @cobble = cobble
   end
   def brand
     @brand
@@ -20,3 +21,4 @@ my_shoe = Shoe.new("Nike")
 my_shoe.size = 9.5
 my_shoe.material = "suede"
 my_shoe.condition = "tattered"
+my_shoe.condition = "repaired"
