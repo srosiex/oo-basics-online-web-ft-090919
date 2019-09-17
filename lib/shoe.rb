@@ -6,7 +6,6 @@ attr_accessor :color, :size, :material, :condition, :cobble
     @size = size
     @material = material
     @condition = condition
-    @cobble = cobble
   end
   def brand
     @brand
