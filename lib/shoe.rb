@@ -7,3 +7,5 @@ class Shoe
   end
 
 end
+
+Shoe.new("Nike")
