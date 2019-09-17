@@ -10,4 +10,4 @@ attr_accessor :color
 
 end
 
-Shoe.new("Nike")
+Shoe.new("Nike")("red")
