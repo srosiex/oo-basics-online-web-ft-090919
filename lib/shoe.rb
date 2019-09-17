@@ -23,4 +23,4 @@ my_shoe = Shoe.new("Nike")
 my_shoe.size = 9.5
 my_shoe.material = "suede"
 my_shoe.condition = "tattered"
-my_shoe.condition
+my_shoe.cobble
